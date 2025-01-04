@@ -1,0 +1,8 @@
+sites:
+  - name: Mapa - Test 01
+    webconfig-path: /etc/nginx/sites-available/test1-map.conf
+    port: 5000
+
+  - name: Mapa - Test 02
+    webconfig-path: /etc/nginx/sites-available/test2-map.conf
+    port: 5500
